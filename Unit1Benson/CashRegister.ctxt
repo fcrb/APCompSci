@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CashRegister
+comment0.text=\n\ Computes\ how\ much\ change\ is\ due\ from\ an\ amount\ of\ money\n\ \n\ @author\ Freya\ \n\ @version\ 9-25-17\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
